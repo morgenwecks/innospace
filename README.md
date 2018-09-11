@@ -1,4 +1,4 @@
-# innospace
+# i/o.vate
 providing a framework to identify innovation whitespace in hong kong's IP ecosphere
 
 kindly note that this project is solely for demonstration purposes and arose out of academic interests. no infringements are intended, and the acquired information has not been used commercially.
